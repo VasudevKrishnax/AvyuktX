@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm AvyuktX</h1>
 <h3 align="center">AvyuktX - Developer | Designer | Layout Designer | Animator | Programmer | 3D Model Artist | 3D Sculpture | Interior Designer |ON a Road of Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 # 💫 About Me:
 🔭 I’m currently working on Website<br>👯 I’m looking to collaborate on AI and ML<br>🌱 I’m currently learning React JS<br>💬 Ask me about Android Development, Python, C++<br>👨‍💻 All of my projects are available at https://avyuktx.tech<br>📝 I regularly write articles on https://avyuktdev.tech<br>📄 Know about my experiences https://avyuktx.tech<br>⚡ Fun fact  I am Developer
@@ -21,7 +20,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AvyuktX&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
